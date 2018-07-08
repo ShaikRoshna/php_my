@@ -79,6 +79,9 @@
           })
           
     </script>
+	<script>var x=100;
+		$x;
+	</script>
           
   </body>
 </html>
